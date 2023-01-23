@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1127.46 757.73"><defs><style>.cls-1{font-size:237.53px;font-family:Miganty;}</style></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path id="color_1" d="M415.8,99.89l49.45,26.21v40.29l-31.64-16.77V462.71H272.73V437.49H326.3V147.34Zm71.86-39.37V462.71H624.51V63.43l40.35,21.39V33.44L601.8,0Zm306.92,377V149.62l31.64,16.77V126.1L776.77,99.89l-89.5,47.45V462.71H854.73V437.49Z"/><text class="cls-1" transform="translate(2.86 682.68)">AirBootstap</text></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1127.5 757.7" style="enable-background:new 0 0 1127.5 757.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{font-family:'Miganty';}
+	.st1{font-size:237.53px;}
+</style>
+<g id="Layer_2_00000064313486558522076250000016849526785807635605_">
+	<g id="Layer_1-2">
+		<path id="color_1" d="M415.8,99.9l49.5,26.2v40.3l-31.6-16.8v313.1H272.7v-25.2h53.6V147.3L415.8,99.9z M487.7,60.5v402.2h136.9
+			V63.4l40.3,21.4V33.4L601.8,0L487.7,60.5z M794.6,437.5V149.6l31.6,16.8v-40.3l-49.4-26.2l-89.5,47.4v315.4h167.5v-25.2
+			L794.6,437.5z"/>
+		<text transform="matrix(1 0 0 1 2.86 682.68)" class="st0 st1">AirBootstrap</text>
+	</g>
+</g>
+</svg>
